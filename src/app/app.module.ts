@@ -21,7 +21,6 @@ import { FooterComponent } from './components/footer/footer.component';
 import { OnlineCardComponent } from './components/online-card/online-card.component';
 import { TopVoterCardComponent } from './components/top-voter-card/top-voter-card.component';
 import { MemberQuoteComponent } from './components/member-quote/member-quote.component';
-import { OpensourceComponent } from './pages/opensource/opensource.component';
 
 @NgModule({
   declarations: [
@@ -37,7 +36,6 @@ import { OpensourceComponent } from './pages/opensource/opensource.component';
     OnlineCardComponent,
     TopVoterCardComponent,
     MemberQuoteComponent,
-    OpensourceComponent
   ],
   imports: [
     BrowserModule,
@@ -45,7 +43,6 @@ import { OpensourceComponent } from './pages/opensource/opensource.component';
     BrowserAnimationsModule,
     HttpClientModule,
     MarkdownModule.forRoot({loader: HttpClient}),
-    AngularFireModule.initializeApp(environment.firebase),
     AngularFirestoreModule.enablePersistence()
   ],
   providers: [],
