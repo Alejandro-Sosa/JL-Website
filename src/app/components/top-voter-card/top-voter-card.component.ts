@@ -28,5 +28,4 @@ export class TopVoterCardComponent implements OnInit {
       });
     });
   }
-
 }

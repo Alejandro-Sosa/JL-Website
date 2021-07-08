@@ -17,13 +17,12 @@ export class OnlineCardComponent implements OnInit {
   constructor(private http: HttpClient) { }
 
   ngOnInit(): void {
-    this.http.get('https://api.minetools.eu/ping/firestartermc.com').subscribe((data: Config) => {
+    this.http.get('https://api.minetools.eu/ping/johnsonslegacy.net').subscribe((data: Config) => {
       this.onlineCounts.server = data['players']['online'];
     });
 
-    this.http.get('https://discordapp.com/api/guilds/609452308161363995/widget.json').subscribe((data: Config) => {
+    this.http.get('https://discordapp.com/api/guilds/656922477141950478/widget.json').subscribe((data: Config) => {
       this.onlineCounts.discord = data['members'].length;
     });
   }
-
 }

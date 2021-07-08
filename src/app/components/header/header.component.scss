@@ -6,10 +6,16 @@
     z-index: 500;
 }
 .navigation-wrapper {
-    vertical-align: middle;
+    position: relative;
+    height: 3em;
 }
 .navigation-right {
-    float: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 .navigation-button {
     background-color: #3D3D3D;
