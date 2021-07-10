@@ -16,5 +16,4 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
     this.posts = this.afs.collection('posts', ref => ref.limit(5)).valueChanges();
   }
-
 }

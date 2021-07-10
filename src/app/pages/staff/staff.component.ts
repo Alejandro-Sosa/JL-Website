@@ -19,7 +19,7 @@ interface StaffCategory {
 })
 export class StaffComponent implements OnInit {
 
-private jsonUrl: string = "https://raw.githubusercontent.com/Firestarter/docs/master/json/staff-list.json";
+private jsonUrl: string = "https://raw.githubusercontent.com/Alejandro-Sosa/website/main/docs/staff-list.json";
 
   data: Observable<StaffCategory[]>;
 
@@ -28,5 +28,4 @@ private jsonUrl: string = "https://raw.githubusercontent.com/Firestarter/docs/ma
   ngOnInit(): void {
     this.data = this.http.get<StaffCategory[]>(this.jsonUrl);
   }
-
 }
