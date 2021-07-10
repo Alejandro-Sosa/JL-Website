@@ -5,10 +5,8 @@ import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { MarkdownModule } from 'ngx-markdown';
 import { AngularFireModule } from '@angular/fire';
 import { AngularFirestoreModule } from '@angular/fire/firestore';
-
 import { environment } from '../environments/environment';
 import { AppRoutingModule } from './app-routing.module';
-
 import { AppComponent } from './app.component';
 import { HomeComponent } from './pages/home/home.component';
 import { StaffComponent } from './pages/staff/staff.component';

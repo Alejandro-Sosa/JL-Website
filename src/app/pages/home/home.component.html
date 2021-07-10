@@ -4,7 +4,7 @@
         <div class="post" *ngFor="let post of posts | async">
             <h2 class="title">{{post.title}}</h2>
             <img src="{{post.banner}}}" class="post-banner" alt="Banner">
-            <markdown [data]="post.content" class="post-content" ngPreserveWhitespaces></markdown>
+            <markdown src="https://raw.githubusercontent.com/Alejandro-Sosa/website/main/docs/rules.md"></markdown>
         </div>
     </div>
     <div class="col-xl-3 sidebar">

@@ -1,5 +1,5 @@
-# 🔥 Firestarter Rules
-By playing on Firestarter Realms, you agree to the following rules. If you notice that someone is breaking any of the below rules, it is your responsibility to report it to the proper staff. If there are no staff online, use `/report` to send a report which can be handled once staff is available.
+# 🐲 Johnson’s Legacy Rules
+By playing on Johnson’s Legacy, you agree to the following rules. If you notice that someone is breaking any of the below rules, it is your responsibility to report it to the proper staff.
 
 ### Modified client
 * Use of [Badlion](https://client.badlion.net/) client, [OptiFine](https://www.optifine.net/home), and some mods such as [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap), [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap), and [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (along with other minimap mods that do not disclose underground blocks) is allowed.
@@ -77,7 +77,7 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
   
 ### Drama and discussing punishments 
 * Starting drama or encouraging others to start drama on the server is strictly bannable.
-* If you have a question about someone's ban or punishment, feel free to **privately** message a staff member about it. Do not take it to general chat. Bans are public and posted [here](https://bans.firestartermc.com/bans.php).
+* If you have a question about someone's ban or punishment, feel free to **privately** message a staff member about it. Do not take it to general chat.
 
 ### Inappropriate skins and names
 * Any skin or username that is deemed inappropriate by the staff will result in a ban until it is changed. 
@@ -92,8 +92,3 @@ By playing on Firestarter Realms, you agree to the following rules. If you notic
 ### Store purchases
 * All store purchases are final. Chargebacks will result in a permanent ban.
 * We do not offer refunds on purchases made unless you do not receive the advertised goods.
-
-### Disclaimer
-* Firestarter ("us", "we", or "our") reserves the right to change these Rules at any time, at its sole discretion, without notice. Any change binds you as soon as you access the https://firestartermc.com (the "Site"), https://store.firestartermc.com (the "Store"), the Firestarter Minecraft Realms (the "Server"), and the Firestarter Discord server (the "Discord Server"). We therefore strongly recommend checking the Rules on a regular basis.
-
-Please make sure to also read our [privacy policy](https://firestartermc.com/privacy).
