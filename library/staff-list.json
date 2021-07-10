@@ -1,6 +1,18 @@
 [
     {
-        "title": "🔥 Admins",
+        "title": "Founder",
+        "color": "#ff8686",
+        "borderColor": "#ed6f6f",
+        "members": [
+            {
+                "uuid": "f1cd44af-34d0-4d26-9c63-3f270b77c7c5",
+                "name": "Thomas",
+                "quote": "hi i'm tech and i exist. i also run the server."
+            }
+        ]
+    },
+    {
+        "title": "Admins",
         "color": "#ff8686",
         "borderColor": "#ed6f6f",
         "members": [
@@ -12,7 +24,7 @@
         ]
     },
     {
-        "title": "🔥 Community Admins",
+        "title": "Mods",
         "color": "#fa5e5e",
         "borderColor": "#eb5e5e",
         "members": [
@@ -34,7 +46,7 @@
         ]
     },
     {
-        "title": "🔨 Mods",
+        "title": "Lya",
         "color": "#ffac7f",
         "borderColor": "#eb9b71",
         "members": [
