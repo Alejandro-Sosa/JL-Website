@@ -19,7 +19,7 @@ interface StaffCategory {
 })
 export class StaffComponent implements OnInit {
 
-private jsonUrl: string = "https://raw.githubusercontent.com/Alejandro-Sosa/website/main/docs/staff-list.json";
+private jsonUrl: string = "https://raw.githubusercontent.com/Alejandro-Sosa/website/main/library/staff-list.json";
 
   data: Observable<StaffCategory[]>;
 
