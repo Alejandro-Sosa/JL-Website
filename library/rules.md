@@ -2,9 +2,7 @@
 By playing on Johnson’s Legacy, you agree to the following rules. If you notice that someone is breaking any of the below rules, it is your responsibility to report it to the proper staff.
 
 ### Modified client
-* Use of [Badlion](https://client.badlion.net/) client, [OptiFine](https://www.optifine.net/home), and some mods such as [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap), [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap), and [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (along with other minimap mods that do not disclose underground blocks) is allowed.
-* Use of utility clients is bannable (no [Wurst](https://www.wurstclient.net/), [Aristois](https://aristois.net/), etc).
-* Some mods, such as [Tweakaroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo), are bannable if used on the server.
+* Any modified client that gives a unfair advantage is not allowed
 
 ### Toxic behavior
 * Treat everyone with respect.
@@ -12,20 +10,15 @@ By playing on Johnson’s Legacy, you agree to the following rules. If you notic
 * Cursing is allowed, so long as it is not directed towards any particular person or figure.
 
 ### Griefing
-* Raiding unclaimed containers (chests, barrels, anything that stores items) is alright, so long as they are not shop chests.
-* Breaking blocks that you did not place, even in unclaimed lands, is bannable. This includes spawners that are not naturally generated.
-* If a player is offline for 3 or more months, you may ask an admin to unclaim one or more of their claims and you will be able to reclaim it. Right-click with a stick on the claimed area to check the age of the claim. Once the claim is yours, you are free to build, edit, or take items. If you lack the claimblocks to reclaim, you will be denied access to the claim until you are capable of claiming it. If another user comes along with enough claimblocks after you had already asked but lacked the claimblocks, the user with the ability to reclaim will be given it. You are free to unclaim these claims at any time.
-* It is your responsibility to claim your builds. If your builds are griefed, the griefer will be punished and you are eligible for a [rollback](rollbacks.md).
+* Raiding unclaimed containers (chests, barrels, anything that stores items) is alright.
+* It is your responsibility to claim your builds. If your builds are griefed, that is your problem.
 * Creating lava casts, also frequently referred to as "cobble monsters," counts as griefing and is bannable.
 * Creating teleport traps, including those intended to kill players, is bannable.
-  
+
 ### Scamming
 * Offering to sell a specific item and instead selling another after a transaction has been made is bannable.
 * Selling deceptive shulkers, i.e. shulkers that display the name of a desirable item in the lore but are instead renamed items of a different type, falls under scamming.
 * Logging off after a trade agreement has been made falls under scamming.
-
-### Auction House
-* Selling renamed items on auction with the purpose of advertising warps, trades and services is not allowed.
 
 ### Stealing
 * Betrayal of trust on claims falls under this category and will result in a ban.
@@ -88,7 +81,3 @@ By playing on Johnson’s Legacy, you agree to the following rules. If you notic
 * We do **not** moderate anything that takes place outside of the bounds of our server. We only moderate actions on the Firestarter Realms or within the Firestarter Discord server. Anything outside of that is out of our scope of moderation, and you are responsible for moderating yourself.
 * As soon as a conversation moves to private messages outside of the server (DMs), we cannot moderate what happens. If the conversation is between a player and Firestarter Staff, any threats or messages intended to harm may result in punishment. This is for both the staff member and the player.
 * The job of moderators is to moderate and enforce the rules. They are not necessarily here to help you with gameplay, such as assisting with your builds. Do not waste their time.
-
-### Store purchases
-* All store purchases are final. Chargebacks will result in a permanent ban.
-* We do not offer refunds on purchases made unless you do not receive the advertised goods.
