@@ -12,9 +12,7 @@ export interface MemberQuoteData {
   styleUrls: ['./member-quote.component.scss']
 })
 export class MemberQuoteComponent {
-
   @Input() data: MemberQuoteData;
-
   constructor() { }
 
 }

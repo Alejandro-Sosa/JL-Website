@@ -6,7 +6,6 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent {
-
   ip = 'JohnsonsLegacy.net';
   color = '#FFC0CB';
 

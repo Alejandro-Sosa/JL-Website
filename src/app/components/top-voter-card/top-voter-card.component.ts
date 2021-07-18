@@ -8,7 +8,6 @@ import {Config} from 'codelyzer';
   styleUrls: ['./top-voter-card.component.scss']
 })
 export class TopVoterCardComponent implements OnInit {
-
   topVoter = {
     uuid: 'e4ae86d8-8040-4e76-a3b3-ba0fba1caf69',
     name: 'ヽ(゜∇゜)ノ',

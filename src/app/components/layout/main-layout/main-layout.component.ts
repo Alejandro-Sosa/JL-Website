@@ -8,7 +8,6 @@ import { Component, OnInit } from '@angular/core';
   animations: [fadeAnimation]
 })
 export class MainLayoutComponent {
-
   constructor() { }
 
 }
