@@ -3,9 +3,6 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { MarkdownModule } from 'ngx-markdown';
-import { AngularFireModule } from '@angular/fire';
-import { AngularFirestoreModule } from '@angular/fire/firestore';
-import { environment } from '../environments/environment';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './pages/home/home.component';
@@ -41,7 +38,6 @@ import { MemberQuoteComponent } from './components/member-quote/member-quote.com
     BrowserAnimationsModule,
     HttpClientModule,
     MarkdownModule.forRoot({loader: HttpClient}),
-    AngularFirestoreModule.enablePersistence()
   ],
   providers: [],
   bootstrap: [AppComponent]
