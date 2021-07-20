@@ -14,24 +14,29 @@
     {
         "title": "Admins",
         "color": "#ff8686",
-        "borderColor": "#ed6f6f",
+        "borderColor": "#f05664",
         "members": [
             {
                 "uuid": "6d1e4e94-c3e1-42ce-b56b-faf77aaf23c0",
-                "name": "_Humus",
+                "name": "Melani",
                 "quote": "Likes dogs and hates cats."
             },
             {
                 "uuid": "9161a7bf-335e-40a3-8ff0-42c1097cb41c",
-                "name": "laysuwu",
+                "name": "Layshia",
                 "quote": "Gross, a weeb. I liked the previous name more."
+            },
+            {
+                "uuid": "f1cd44af-34d0-4d26-9c63-3f270b77c7c5",
+                "name": "Dylan",
+                "quote": "Coffee addict."
             }
         ]
     },
     {
         "title": "Mods",
         "color": "#fa5e5e",
-        "borderColor": "#eb5e5e",
+        "borderColor": "#ff69b4",
         "members": [
             {
                 "uuid": "8d0a6fa0-e63d-41c9-9f60-443808d8825a",
@@ -39,26 +44,9 @@
                 "quote": "IzzyGlizzy69"
             },
             {
-                "uuid": "7192a4a0-e840-4c3c-912a-f3d0b21361e3",
-                "name": "Twrb",
-                "quote": "Cum-chan"
-            }
-        ]
-    },
-    {
-        "title": "Honorable Mentions",
-        "color": "#ffac7f",
-        "borderColor": "#eb9b71",
-        "members": [
-            {
                 "uuid": "7dc6e16c-0741-4767-954a-b4bfc7a1e2b1",
                 "name": "KingFrailty",
                 "quote": "When I go to sleep I dream about murder"
-            },
-            {
-                "uuid": "1093eb24-07b2-44a6-8af1-b980a5f684f2",
-                "name": "fatherbignips",
-                "quote": "a fat weeb"
             }
         ]
     }
