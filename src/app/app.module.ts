@@ -9,6 +9,7 @@ import { HomeComponent } from './pages/home/home.component';
 import { StaffComponent } from './pages/staff/staff.component';
 import { PrivacyComponent } from './pages/privacy/privacy.component';
 import { RulesComponent } from './pages/rules/rules.component';
+import { EmotesComponent } from './pages/emotes/emotes.component';
 import { NotFoundComponent } from './pages/error/not-found/not-found.component';
 import { MainLayoutComponent } from './components/layout/main-layout/main-layout.component';
 import { HeaderComponent } from './components/header/header.component';
@@ -24,6 +25,7 @@ import { MemberQuoteComponent } from './components/member-quote/member-quote.com
     StaffComponent,
     PrivacyComponent,
     RulesComponent,
+    EmotesComponent,
     NotFoundComponent,
     MainLayoutComponent,
     HeaderComponent,

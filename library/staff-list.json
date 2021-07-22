@@ -1,8 +1,8 @@
 [
     {
         "title": "Founder",
-        "color": "#ff8686",
-        "borderColor": "#ed6f6f",
+        "color": "#c3b1e1",
+        "borderColor": "#c3b1e1",
         "members": [
             {
                 "uuid": "b7268e93-a40d-499c-87c4-bdf6ced8ce35",
@@ -13,7 +13,7 @@
     },
     {
         "title": "Admins",
-        "color": "#ff8686",
+        "color": "#f05664",
         "borderColor": "#f05664",
         "members": [
             {
@@ -35,7 +35,7 @@
     },
     {
         "title": "Mods",
-        "color": "#fa5e5e",
+        "color": "#ff69b4",
         "borderColor": "#ff69b4",
         "members": [
             {

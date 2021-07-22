@@ -6,6 +6,7 @@ import { StaffComponent } from './pages/staff/staff.component';
 import { MainLayoutComponent } from './components/layout/main-layout/main-layout.component';
 import { PrivacyComponent } from './pages/privacy/privacy.component';
 import { RulesComponent } from './pages/rules/rules.component';
+import { EmotesComponent } from './pages/emotes/emotes.component';
 
 const routes: Routes = [
   {
@@ -24,6 +25,10 @@ const routes: Routes = [
       {
         path: 'privacy',
         component: PrivacyComponent,
+      },
+      {
+        path: 'emotes',
+        component: EmotesComponent,
       },
       {
         path: 'rules',
